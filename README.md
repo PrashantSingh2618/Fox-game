@@ -1,8 +1,9 @@
-## Getting Started
+# Getting Started
 
-# Install Dependencies 
-```bash
+## Install Dependencies 
+```
 npm install
 #or
 npm i
 ```
+
